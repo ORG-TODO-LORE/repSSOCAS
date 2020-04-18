@@ -1,0 +1,2 @@
+# repSSOCAS
+DotNet使用DotNetCasClient类库完成SSO的接入（CAS服务器端已供应后的操作）
